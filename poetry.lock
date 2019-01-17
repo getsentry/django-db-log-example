@@ -1,0 +1,23 @@
+[[package]]
+category = "main"
+description = "A high-level Python Web framework that encourages rapid development and clean, pragmatic design."
+name = "django"
+optional = false
+python-versions = "*"
+version = "1.1.4"
+
+[[package]]
+category = "main"
+description = "Exception Logging to a Database in Django"
+name = "django-db-log"
+optional = false
+python-versions = "*"
+version = "2.2.1"
+
+[metadata]
+content-hash = "053f908b66c7a6e0d49b97353635ba8ebf4a682bfee6fd975a90815820ecd0ca"
+python-versions = "^2.7"
+
+[metadata.hashes]
+django = ["1f9d48a741f98951e65818e167c84c407d1c322efcfd4cb419384773ea793dee"]
+django-db-log = ["389c33eb95939db2698128a71adf33fbb979ff4fc6454dbfe58992948ab4031d"]
